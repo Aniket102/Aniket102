@@ -1,7 +1,7 @@
 <div>
 <h1 align="center">Hi 👋, I'm ANIKET VERMA</h1>
-<h3 align="center">3rd Year UG student @ NIT DURGAPUR | MECHANICAL ENGINEERING | DATA SCIENCE ENTHUSIAST</h3>
-<h3 align="center">A Passionate Data Enthusiast and Python Developer</h3>
+<h3 align="center">3rd Year UG student @ NIT DURGAPUR | MECHANICAL ENGINEERING | DATA SCIENCE ENTHUSIAST|</h3>
+<h3 align="center">A Passionate Data Enthusiast and Python Developer Seeking to Innovate in Businesses</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aniket102&label=Profile%20views&color=0e75b6&style=flat" alt="Aniket102" /> </p>
 
@@ -41,6 +41,12 @@
 <a href="https://www.tensorflow.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tesnorflow" width="40" height="40"/>
 </a>
+<a href="https://scikit-learn.org/stable/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="scikitlearn" width="40" height="40"/>
+</a>
+<a href="https://opencv.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="opencv" width="40" height="40"/>
+</a>
 <a href="https://pandas.pydata.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </a>
@@ -50,7 +56,7 @@
 <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a>
-<a href=https://numpy.org/" target="_blank"> 
+<a href="https://numpy.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </a>
 <a href="https://www.cprogramming.com/" target="_blank"> 
