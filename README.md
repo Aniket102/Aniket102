@@ -26,9 +26,33 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
+<a href="https://www.python.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://jupyter.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="linux" width="40" height="40"/> 
+</a>
+<a href="https://cloud.google.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/>
+</a>    
+    <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+</a>
+<a href="https://www.tensorflow.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tesnorflow" width="40" height="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+</a>
 <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
+</a>
+<a href=https://numpy.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</a>
 <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a> 
@@ -47,42 +71,20 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
-<a href="https://netbeans.apache.org/" target="_blank"> 
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/netbeans.svg" alt="netbeans" width="40" height="40"/> 
-</a>
-<a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-<a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
 <a href="https://www.java.com/en/" target="_blank"> 
     <img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://laravel.com/" target="_blank"> 
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/laravel.svg" alt="laravel" width="40" height="40"/> 
-</a> 
-<a href="https://vuejs.org/v2/guide/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
-</a>
-<a href="https://www.php.net/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a>
-<a href="https://postman.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a>
+</a>  
 <a href="https://gitlab.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> 
 </a>
 <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
 </a>
-<a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
-</a>
 <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a>
-
+<a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
+</a>
 </p>
 </div>
